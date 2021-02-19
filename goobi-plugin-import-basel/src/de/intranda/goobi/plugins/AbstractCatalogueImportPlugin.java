@@ -151,9 +151,9 @@ public abstract class AbstractCatalogueImportPlugin implements IImportPlugin {
         if (identifier != null) {
             sb.append("_").append(identifier);
         }
-        if (sourceCatalogue != null) {
-            sb.append("_").append(sourceCatalogue);
-        }
+        //        if (sourceCatalogue != null) {
+        //            sb.append("_").append(sourceCatalogue);
+        //        }
         if (sorting != null) {
             sb.append("_").append(sorting);
         }
