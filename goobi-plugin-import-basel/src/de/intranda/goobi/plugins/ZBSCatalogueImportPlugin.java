@@ -7,6 +7,6 @@ public class ZBSCatalogueImportPlugin extends AbstractCatalogueImportPlugin {
 
     @Override
     public String getTitle() {
-        return "UBE";
+        return "3. ZBS";
     }
 }

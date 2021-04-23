@@ -7,6 +7,6 @@ public class RZSCatalogueImportPlugin extends AbstractCatalogueImportPlugin {
 
     @Override
     public String getTitle() {
-        return "RZS";
+        return "4. RZS";
     }
 }

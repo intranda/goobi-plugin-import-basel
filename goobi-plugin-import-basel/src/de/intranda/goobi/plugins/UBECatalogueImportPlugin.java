@@ -7,6 +7,6 @@ public class UBECatalogueImportPlugin extends AbstractCatalogueImportPlugin {
 
     @Override
     public String getTitle() {
-        return "ZBS";
+        return "2. UBE";
     }
 }
